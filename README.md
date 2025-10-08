@@ -1,6 +1,6 @@
 ## Olá, meu nome é Mariana!
 - 💼 Trabalho com front-end
-- 👩‍💻 Estudando JavaScript
+- 👩‍💻 Estudando Angular
 - 🖋️ Pronomes: Ela/Dela
   <div>
     <a href="https://www.linkedin.com/in/mariana-lopes-6b2a72155/"></a>
