@@ -1,11 +1,19 @@
-## Olá, meu nome é Mariana!
-- Trabalho com front-end
-- Estudando Angular
-- Pronomes: Ela/Dela
+# 👩🏻‍💻 Mariana Lopes  
+
+```ts
+export const mariana = {
+  role: "Front-end Developer",
+  focus: "Angular",
+  building: "Interfaces com estrutura e intenção",
+  pronouns: "Ela/Dela"
+}
+```
+
+Escrevendo interfaces que funcionam hoje e continuam fazendo sentido amanhã.
   <div>
     <a href="https://www.linkedin.com/in/mariana-lopes-6b2a72155/"></a>
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mfrancy&show_icons=true&theme=dracula&include_all_commits=true&show_owner=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrancy&layout=compact&langs_counts=16&theme=dracula" "> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mfrancy&layout=compact&langs_counts=16&theme=dracula"> 
   </div>
 
   ##
