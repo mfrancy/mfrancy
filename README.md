@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Mariana Lopes  
+#  Mariana Francisco  
 
 ```ts
 export const mariana = {
