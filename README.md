@@ -43,7 +43,7 @@ Currently deepening my **Angular** skills and exploring **.NET**, **Software Arc
 
 ## ✦ Current Projects
 
-### [MarluHub](https://github.com/mfrancy/marluhub)
+### [MarluHub](https://github.com/mfrancy/marlu-hub)
 Platform for inventory management, sales tracking and online catalog for independent resellers.
 
 ### [When the Blog](https://github.com/mfrancy/when-the-blog)
