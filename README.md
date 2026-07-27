@@ -13,7 +13,7 @@
 
 <td width="250" align="center">
 
-<img src="https://i.pinimg.com/originals/7c/96/35/7c9635c777a409bfb10e07e645da8933.gif" width="500">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmg1Y3RtaHlrMTZwc2VxMXdsOWRmYnp5ZjM3aTdzdWg3cGVoa2I5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y4PQTcLTYJwOI/giphy.gif" width="300">
 
 <br><br>
 
