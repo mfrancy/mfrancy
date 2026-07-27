@@ -1,59 +1,40 @@
-<p align="center">
+<div align="center">
 
-✦ ⋆ ˚｡⋆ Welcome to Mariana's Homepage ⋆｡˚ ⋆ ✦
+# ⋆｡°✩ Welcome to Mariana's Homepage ✩°｡⋆
 
-</p>
+*Front-End Developer • Coffee Lover • Fiona Apple Enthusiast*
 
-```txt
-==========================================
+✦ ─────────────── ✦
 
-Mariana.exe initialized successfully.
-
-Status............. ONLINE
-Location........... Brazil
-Listening.......... Fiona Apple
-Fuel............... Coffee
-
-==========================================
-```
+</div>
 
 <table>
 <tr>
 
-<td width="250" valign="top">
+<td width="250" align="center">
 
-```txt
-About.txt
+<img src="https://i.pinimg.com/originals/7c/96/35/7c9635c777a409bfb10e07e645da8933.gif" width="500">
 
-Hi!
-
-I'm Mariana, a Front-End developer
-passionate about building clean,
-modern and thoughtful interfaces.
-
-Currently learning
-
-[x] Angular
-[x] .NET
-[x] Software Architecture
-[x] Design Systems
-```
+<br><br>
 
 </td>
 
 <td valign="top">
 
-```txt
-Contact
+## About
 
-Email...... marianalopes697@gmail.com
+Hi! I'm **Mariana**.
 
-GitHub..... github.com/mfrancy
+Front-End developer passionate about turning ideas into thoughtful digital experiences.
+Right now I'm focused on:
 
-Instagram.. @mari.lofran
+✦ Angular
 
-LinkedIn... mariana-lopes-francisco
-```
+✦ .NET
+
+✦ Software Architecture
+
+✦ Design Systems
 
 <br>
 
@@ -80,29 +61,46 @@ LinkedIn... mariana-lopes-francisco
 
 ---
 
-```txt
-==========================================
-Now Playing
-==========================================
+## ✦ Current Projects
 
-Artist.............. Fiona Apple
+```
+MarluHub           █████████░ 90%
 
-Album............... Extraordinary Machine
+When the Blog      ███████░░░ 65%
 
-Track............... Extraordinary Machine
-
-━━━━━━━━━━━━━━━━━━━━━━●━━━━━
+Portfolio          █████░░░░░ 40%
 ```
 
 ---
 
+## ✦ Listening to
 
-<p align="center">
+```
+♪ Fiona Apple
 
-✦ ˚₊‧ ✦ ˚₊‧ ✦ ˚₊‧ ✦ ˚₊‧ ✦
+Extraordinary Machine
 
-Thanks for visiting!
+━━━━━━━━━━━━━━●━━━━━━
+```
 
-✦ ˚₊‧ ✦ ˚₊‧ ✦ ˚₊‧ ✦ ˚₊‧ ✦
+---
+
+## ✦ Toolbox
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=angular,ts,dotnet,postgres,git,vscode" />
 
 </p>
+
+---
+
+<div align="center">
+
+⋆｡°✩ ⋆｡°✩ ⋆｡°✩
+
+Thanks for stopping by!
+
+⋆｡°✩ ⋆｡°✩ ⋆｡°✩
+
+</div>
